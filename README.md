@@ -19,4 +19,15 @@ GET /powers/:id: Returns a power with the specified id.
 PATCH /powers/:id: Updates the power with the specified id.
 POST /hero_powers: Creates a new hero power.
 
+## Deployed API Endpoints at Render
+
+GET Heroes: https://superhero-k24z.onrender.com/
+
+GET Powers: https://superhero-k24z.onrender.com/powers
+
+GET Hero Powers: https://superhero-k24z.onrender.com/hero_powers
+
+
+
 ## Video Walkthrough
+

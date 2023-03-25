@@ -1,6 +1,5 @@
 class HerosController < ApplicationController
 
-
     def index
         heros = Hero.all
         render json: heros, only: [:id, :name, :super_name]
